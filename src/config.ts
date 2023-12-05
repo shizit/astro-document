@@ -1,6 +1,6 @@
 export const SITE = {
-  title: "Astro Design System",
-  description: "Astro theme to build your design system fast.",
+  title: "OneTableApp Document",
+  description: "シンプルなアプリケーションの要件定義からリリースまで",
   defaultLanguage: "en_US",
   twitter: "@jordienr",
   github: "jordienr",
@@ -16,18 +16,6 @@ export const OPEN_GRAPH = {
 };
 
 export const SIDEBAR = [
-  { text: "Core", header: true },
-  { text: "Introduction", link: "/core/introduction" },
-  { text: "Colors", link: "/core/colors" },
-  { text: "Typography", link: "/core/typography" },
-  { text: "Shadows", link: "/core/shadows" },
-
-  { text: "Components", header: true },
-  { text: "Buttons", link: "/components/buttons" },
-  { text: "Input", link: "/components/input" },
-  { text: "Status pills", link: "/components/status-pill" },
-  { text: "Table", link: "/components/table" },
-
-  { text: "Patterns", header: true },
-  { text: "Introduction", link: "/patterns/introduction" },
+  { text: "機能要件", header: true },
+  { text: "機能概要", link: "/requirementDefinition/about" },
 ];

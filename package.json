@@ -18,7 +18,8 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "sass": "^1.50.0",
-    "vue": "3.2"
+    "vue": "3.2",
+    "zenn-content-css": "^0.1.150"
   },
   "devDependencies": {
     "@astrojs/preact": "^0.0.2",
