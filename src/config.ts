@@ -17,5 +17,11 @@ export const OPEN_GRAPH = {
 
 export const SIDEBAR = [
   { text: "機能要件", header: true },
-  { text: "機能概要", link: "/requirementDefinition/about" },
+  { text: "システム概要", link: "/requirementDefinition/about" },
+  { text: "機能概要", link: "/requirementDefinition/aboutFeature" },
+  { text: "機能詳細", link: "/requirementDefinition/detail" },
+  { text: "機能優先度と進め方", link: "/requirementDefinition/priority" },
+  { text: "システム要件", header: true },
+  { text: "システム構成", link: "/system/configuration" },
+  { text: "システム詳細", link: "/system/detail" },
 ];
