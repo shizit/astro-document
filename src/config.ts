@@ -2,9 +2,9 @@ export const SITE = {
   title: "OneTableApp Document",
   description: "シンプルなアプリケーションの要件定義からリリースまで",
   defaultLanguage: "en_US",
-  twitter: "@jordienr",
-  github: "jordienr",
-  linkedin: "linkedinUsername",
+  twitter: "",
+  github: "shizit",
+  linkedin: "",
 };
 
 export const OPEN_GRAPH = {
